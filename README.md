@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there 👋, I'm Narveer Rathore! I'm Lead Frontend Engineer at [now.gg](https://now.gg/) 🎮 where we are banishing hardware limitation by offering super-fast Cloud Gaming and a release platform for developers to reach users quickly.
+
+
+- 🔭 I’m currently working frontend playgroud static site
+- 🌱 I’m currently learning about AI and RAGs. Just after completing [IBM's Full Stack Developer](https://www.coursera.org/account/accomplishments/professional-cert/SLK2E9HUFWVB) course, I knew what my next project's gonna include.
+- 📫 How to reach me: [email](mailto:rathore.narveer1994@gmail.com)
+
+
 
 <!--
 **narveer-rathore/narveer-rathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
