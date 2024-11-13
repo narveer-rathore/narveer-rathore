@@ -4,6 +4,8 @@ Hi there 👋, I'm Narveer Rathore! I'm Lead Frontend Engineer at [now.gg](https
 - 🌱 I’m learning about AI and RAGs. After completing [IBM's Full Stack Developer](https://www.coursera.org/account/accomplishments/professional-cert/SLK2E9HUFWVB), I immediately knew what my next project would include!
 - 📫 How to reach me: [email](mailto:rathore.narveer1994@gmail.com)
 
+- ⚡ Skills:       Next.Js, React, JavaScript, TypeScript, HTML/CSS, Python
+- ⚡ Technologies: WebRTC, AWS, WebAssembly, Optimization, Performance, Testing
 
 
 <!--
