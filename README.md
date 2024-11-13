@@ -2,6 +2,7 @@ Hi there 👋, I'm Narveer Rathore! I'm Lead Frontend Engineer at [now.gg](https
 
 - 🔭 I’m currently working on a frontend playground static site like CodePen 
 - 🌱 I’m learning about AI and RAGs. After completing [IBM's Full Stack Developer](https://www.coursera.org/account/accomplishments/professional-cert/SLK2E9HUFWVB), I immediately knew what my next project would include!
+- 👯 I’m looking to collaborate on anything that intersects between technology and problem solving.
 - 📫 How to reach me: [email](mailto:rathore.narveer1994@gmail.com)
 
 - ⚡ Skills:       Next.Js, React, JavaScript, TypeScript, HTML/CSS, Python
