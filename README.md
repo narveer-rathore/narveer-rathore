@@ -1,8 +1,7 @@
-Hi there 👋, I'm Narveer Rathore! I'm Lead Frontend Engineer at [now.gg](https://now.gg/) 🎮 where we are banishing hardware limitation by offering super-fast Cloud Gaming and a release platform for developers to reach users quickly.
+Hi there 👋, I'm Narveer Rathore! I'm Lead Frontend Engineer at [now.gg](https://now.gg/) 🎮, where we're overcoming hardware limitations by offering super-fast Cloud Gaming and providing a platform for developers to quickly reach users.
 
-
-- 🔭 I’m currently working frontend playgroud static site
-- 🌱 I’m currently learning about AI and RAGs. Just after completing [IBM's Full Stack Developer](https://www.coursera.org/account/accomplishments/professional-cert/SLK2E9HUFWVB) course, I knew what my next project's gonna include.
+- 🔭 I’m currently working on a frontend playground static site like CodePen 
+- 🌱 I’m learning about AI and RAGs. After completing [IBM's Full Stack Developer](https://www.coursera.org/account/accomplishments/professional-cert/SLK2E9HUFWVB), I immediately knew what my next project would include!
 - 📫 How to reach me: [email](mailto:rathore.narveer1994@gmail.com)
 
 
