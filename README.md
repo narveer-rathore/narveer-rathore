@@ -24,10 +24,10 @@ I'm currently learning:
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/narveer-rathore/browser-stacks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=browser-stacks&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=browser-stacks" />
 </a>
 <a href="https://github.com/narveer-rathore/page-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=page-editor&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=page-editor" />
 </a>
 
 ## 🧑‍💻 Languages and Tools
