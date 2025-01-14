@@ -31,7 +31,7 @@ I'm currently learning:
 </a>
 
 ## 🧑‍💻 Languages and Tools
-![Languages and Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,redux,webrtc,storybook,sass,jest,playwright,python,mysql,git,github,docker,kubernetes,aws,firebase)
+![Languages and Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,redux,sass,jest,python,mysql,git,github,docker,kubernetes,aws,firebase)
 
 ## 📫 How to Reach Me
 - Email: [rathore.narveer1994@gmail.com](mailto:rathore.narveer1994@gmail.com)
