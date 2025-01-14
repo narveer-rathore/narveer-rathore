@@ -2,17 +2,17 @@
 I'm Frontend Engineer at [now.gg](https://now.gg/) 🎮 and I love automating stuff.
 
 ## 🔭 Current Projects
-- **[BrowserStacks]([https://github.com/narveer-rathore/project-repo](https://github.com/narveer-rathore/browser-stacks))**: A professional Electron-based application for testing websites across multiple device viewports simultaneously. Built with React and Electron, it provides real-time previews, synchronized scrolling, and comprehensive device emulation.
-- **[list-files-by-lines]([https://www.npmjs.com/package/list-files-by-lines])**: A utility to sort files by the number of lines they contain. Useful for traversing through larger codebases and refactoring.
+- **[BrowserStacks](https://github.com/narveer-rathore/browser-stacks)**: A professional Electron-based application for testing websites across multiple device viewports simultaneously. Built with React and Electron, it provides real-time previews, synchronized scrolling, and comprehensive device emulation.
+- **[list-files-by-lines](https://www.npmjs.com/package/list-files-by-lines)**: A utility to sort files by the number of lines they contain. Useful for traversing through larger codebases and refactoring.
 
 ## 🌱 Learning and Growth
 I'm currently learning:
-- Create my own frontend framework from scratch
-- Utilising GenAI in making tools to automate boring parts in web development
+- To create my own frontend framework from scratch
+- To utilize GenAI in making tools to automate boring parts in web development
 
 ## 💬 Ask Me About
 - debugging a nasty bug 
-- making a website load fast
+- making a website run faster
 - running animations to smoothly 
 - architect a scalable frontend application
 
@@ -26,21 +26,19 @@ I'm currently learning:
 ![Narveer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=narveer-rathore&theme=darkhub)
 
 ## 🗂️ Highlight Projects
-<a href="https://github.com/narveer-rathore/project-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=project-repo&theme=radical" />
+<a href="https://github.com/narveer-rathore/browser-stacks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=browser-stacks&theme=radical" />
 </a>
-<a href="https://github.com/narveer-rathore/another-project-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=another-project-repo&theme=radical" />
+<a href="https://github.com/narveer-rathore/page-editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narveer-rathore&repo=page-editor&theme=radical" />
 </a>
 
 ## 🧑‍💻 Languages and Tools
 ![Languages and Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,redux,python,mysql,,git,github,docker,kubernetes,aws,playwright)
 
-
 ## 📫 How to Reach Me
 - Email: [rathore.narveer1994@gmail.com](mailto:rathore.narveer1994@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/narveer-rathore/](https://www.linkedin.com/in/narveer-rathore/)
-
 
 <!--
 - 🔭 I’m currently working on a frontend playground static site like CodePen 
