@@ -1,5 +1,5 @@
 # Hi there, I'm Narveer Rathore 👋
-I'm Frontend Engineer at [now.gg](https://now.gg/) 🎮 and I love automating stuff.
+I'm a Frontend Engineer at [now.gg](https://now.gg/) 🎮 and I love automating stuff.
 
 ## 🔭 Current Projects
 - **[BrowserStacks](https://github.com/narveer-rathore/browser-stacks)**: A professional Electron-based application for testing websites across multiple device viewports simultaneously. Built with React and Electron, it provides real-time previews, synchronized scrolling, and comprehensive device emulation.
@@ -7,7 +7,7 @@ I'm Frontend Engineer at [now.gg](https://now.gg/) 🎮 and I love automating st
 
 ## 🌱 Learning and Growth
 I'm currently learning:
-- To create my own frontend framework from scratch
+- To create my own UI framework from scratch
 - To utilize GenAI in making tools to automate boring parts in web development
 
 ## 💬 Ask Me About
