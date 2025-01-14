@@ -17,10 +17,10 @@ I'm currently learning:
 - architect a scalable frontend application
 
 ## 📊 GitHub Stats
-![Narveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=narveer-rathore&show_icons=true&theme=radical)
+![Narveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=narveer-rathore&show_icons=true&theme=gruvbox_light&hide=rank)
 
 ## 🏆 GitHub Trophies
-![Narveer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=narveer-rathore&theme=darkhub)
+![Narveer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=narveer-rathore&stats=-Reviews,-Followers)
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/narveer-rathore/browser-stacks">
