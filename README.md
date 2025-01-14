@@ -13,7 +13,7 @@ I'm currently learning:
 ## 💬 Ask Me About
 - debugging a nasty bug 
 - making a website run faster
-- running animations to smoothly 
+- running smooth animations
 - architect a scalable frontend application
 
 ## 📊 GitHub Stats
