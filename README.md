@@ -20,7 +20,7 @@ I'm currently learning:
 ![Narveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=narveer-rathore&show_icons=true&theme=gruvbox_light&hide=rank)
 
 ## 🏆 GitHub Trophies
-![Narveer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=narveer-rathore&stats=-Reviews,-Followers)
+![Narveer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=narveer-rathore&title=-Reviews,-Followers)
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/narveer-rathore/browser-stacks">
