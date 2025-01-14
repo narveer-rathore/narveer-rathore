@@ -16,9 +16,6 @@ I'm currently learning:
 - running animations to smoothly 
 - architect a scalable frontend application
 
-## ⚡ Fun Fact
-[Share a fun fact about yourself or your interests]
-
 ## 📊 GitHub Stats
 ![Narveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=narveer-rathore&show_icons=true&theme=radical)
 
@@ -34,13 +31,17 @@ I'm currently learning:
 </a>
 
 ## 🧑‍💻 Languages and Tools
-![Languages and Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,redux,python,mysql,,git,github,docker,kubernetes,aws,playwright)
+![Languages and Tools](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,redux,webrtc,storybook,sass,jest,playwright,python,mysql,git,github,docker,kubernetes,aws,firebase)
 
 ## 📫 How to Reach Me
 - Email: [rathore.narveer1994@gmail.com](mailto:rathore.narveer1994@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/narveer-rathore/](https://www.linkedin.com/in/narveer-rathore/)
 
 <!--
+
+
+## ⚡ Fun Fact
+[Share a fun fact about yourself or your interests]
 - 🔭 I’m currently working on a frontend playground static site like CodePen 
 - 🌱 I’m learning about AI and RAGs. After completing [IBM's Full Stack Developer](https://www.coursera.org/account/accomplishments/professional-cert/SLK2E9HUFWVB), I immediately knew what my next project would include!
 - 👯 I’m looking to collaborate on anything that intersects between technology and problem solving.
